@@ -1,0 +1,7 @@
+D:\Programming\Grand Circus Bootcamp\ForLoopArtExercises\ForLoopArtExercises\bin\Debug\ForLoopArtExercises.exe.config
+D:\Programming\Grand Circus Bootcamp\ForLoopArtExercises\ForLoopArtExercises\bin\Debug\ForLoopArtExercises.exe
+D:\Programming\Grand Circus Bootcamp\ForLoopArtExercises\ForLoopArtExercises\bin\Debug\ForLoopArtExercises.pdb
+D:\Programming\Grand Circus Bootcamp\ForLoopArtExercises\ForLoopArtExercises\obj\Debug\ForLoopArtExercises.csprojAssemblyReference.cache
+D:\Programming\Grand Circus Bootcamp\ForLoopArtExercises\ForLoopArtExercises\obj\Debug\ForLoopArtExercises.csproj.CoreCompileInputs.cache
+D:\Programming\Grand Circus Bootcamp\ForLoopArtExercises\ForLoopArtExercises\obj\Debug\ForLoopArtExercises.exe
+D:\Programming\Grand Circus Bootcamp\ForLoopArtExercises\ForLoopArtExercises\obj\Debug\ForLoopArtExercises.pdb

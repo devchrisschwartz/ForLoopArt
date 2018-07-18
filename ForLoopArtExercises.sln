@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopArtExercises", "ForLoopArtExercises\ForLoopArtExercises.csproj", "{F6552AAF-2140-467D-B186-B29199AD4A40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6552AAF-2140-467D-B186-B29199AD4A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6552AAF-2140-467D-B186-B29199AD4A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6552AAF-2140-467D-B186-B29199AD4A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6552AAF-2140-467D-B186-B29199AD4A40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42983547-410C-4E02-B586-A8602BA0B2D0}
+	EndGlobalSection
+EndGlobal
